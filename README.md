@@ -33,11 +33,10 @@ O programa:
 
 O programa possui um loop infinito propositalmente. Ele continuará executando até ser encerrado pelo sistema ou pelo usuário.
 
-## Exemplo de saida
-
-loop em assembly
-loop em assembly
-loop em assembly
-...
-
 ## Exemplo de saída
+
+```text
+loop em Assembly
+loop em Assembly
+loop em Assembly
+...
